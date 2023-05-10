@@ -2,7 +2,7 @@
 #### what is this??
 *A Github project.*
 this project is about having the most Github commit ever.
-![livecount of mizzled with 7 million commits](https://i.ibb.co/2hbdpGM/githublc.jpg)
+![livecount of mizzled with 660 commits](https://i.ibb.co/vPJzMcs/githublc.jpg)
 #### is there is a livecount for this?
 ofc there is one!
 https://mathias777.com/github_livecount/#mizzled 
